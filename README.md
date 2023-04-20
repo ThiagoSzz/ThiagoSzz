@@ -1,11 +1,9 @@
 ## <div align="center">\<Dev name="Thiago" \/>👋👋👋</div>   
-# <div align="center">![image](https://user-images.githubusercontent.com/49589136/233504604-1f00675d-f240-49be-9724-f5290b8e65ba.png)</div>  
-
-# Tudo bão?  
-Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto semestre de Ciência da Computação na UFRGS.  
+## <div align="center">![](https://github.com/ThiagoSzz/ThiagoSzz/blob/main/killua-hunter-x-hunter.gif)</div>
 
 
 ## Sobre  
+Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto semestre de Ciência da Computação na UFRGS. 
 <table><tr><td valign="top" width="50%">
 
 🔭 Atualmente trabalhando nos projetos [LocAlarm](https://github.com/ThiagoSzz/LocAlarm) 📱 e [Visualização de Batidas de Penalidades em VR](https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football) 🎲  
