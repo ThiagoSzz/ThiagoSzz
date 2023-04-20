@@ -1,25 +1,8 @@
-## <div align="center">\<Dev name="Thiago" \/>👋👋👋</div>  
-  
-
-<div align="center">
-<a href="https://twitter.com/_thiagoszz" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/thiagohss_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/thsantoss" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-
+## <div align="center">\<Dev name="Thiago" \/>👋👋👋</div>   
 
 ## Tudo bão?  
 Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto semestre de Ciência da Computação na UFRGS.  
-  
-<br/>  
+
 
 ## Sobre  
 <table><tr><td valign="top" width="50%">
@@ -33,8 +16,7 @@ Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto 
 
 
 </td></tr></table>  
-
-<br/>  
+ 
 
 
 ## Linguagens e Ferramentas  
@@ -48,13 +30,24 @@ Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>  
 
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ThiagoSzz&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+## Github   
 
-<br/>  
+<br />
+
+
+<div align="center">
+<a href="https://twitter.com/_thiagoszz" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/thiagohss_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/thsantoss" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ThiagoSzz&&style=flat-square" align="center" />
