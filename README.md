@@ -31,10 +31,9 @@ Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto 
 </div>  
 
 
-
-## Github   
-![Snake animation](https://github.com/{{ThiagoSzz}}/{{ThiagoSzz}}/blob/output/github-contribution-grid-snake.svg)
 <br />
+
+![snake gif](https://github.com/ThiagoSzz/ThiagoSzz/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
