@@ -1,6 +1,7 @@
 ## <div align="center">\<Dev name="Thiago" \/>👋👋👋</div>   
+# <div align="center">![image](https://user-images.githubusercontent.com/49589136/233504604-1f00675d-f240-49be-9724-f5290b8e65ba.png)</div>  
 
-## Tudo bão?  
+# Tudo bão?  
 Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto semestre de Ciência da Computação na UFRGS.  
 
 
