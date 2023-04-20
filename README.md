@@ -37,7 +37,7 @@ Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto 
 <br/>  
 
 
-## Languages and Tools  
+## Linguagens e Ferramentas  
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
