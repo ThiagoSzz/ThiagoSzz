@@ -5,25 +5,27 @@
 ## Sobre  
 Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto semestre de Ciência da Computação na UFRGS. 
 
-<table><tr><td valign="top" width="50%">
-
-Projetos mais interessantes em que trabalhei: <br><br>
-⏰ [Aplicativo de Despertador por Localidade](https://github.com/ThiagoSzz/LocAlarm) <br>
-🎲 [Visualização de Batidas de Penalidades em VR](https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football)
-
-</td><td valign="top" width="50%">
-
-Outros projetos interessantes: <br><br>
-🪓 [Jogo em C com OpenGL](https://github.com/ThiagoSzz/Timberman-Game) <br>
-👨‍💻 [Jogo em Circuito Digital](https://github.com/ThiagoSzz/Fast-Typing-Game-DigitalCircuit) <br>
-😴 [Sistema de Gerenciamento de Sono](https://github.com/LeiteRafael/sisop2-trabalho-final)
-
-</td></tr></table>
-<table><tr><td valign="top" width="100%">
-
-🌟 No tempo livre, gosto de fazer scripts para [Macro/Keybind Mod](https://mkb.ddoerr.com/docs/actions) e passar raiva falando sobre o Inter ⚽  
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      Projetos mais interessantes em que trabalhei: <br><br>
+      ⏰ <a href="https://github.com/ThiagoSzz/LocAlarm">Aplicativo de Despertador por Localidade</a> <br>
+      🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">Visualização de Batidas de Penalidades em VR</a>
+      <br>
+   </td>
+    <td valign="top" width="50%">
+      Outros projetos interessantes: <br><br>
+      🪓 <a href="https://github.com/ThiagoSzz/Timberman-Game">Jogo em C com OpenGL</a> <br>
+      👨‍💻 <a href="https://github.com/ThiagoSzz/Fast-Typing-Game-DigitalCircuit">Jogo em Circuito Digital</a> <br>
+      😴 <a href="https://github.com/LeiteRafael/sisop2-trabalho-final">Sistema de Gerenciamento de Sono</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="100%" colspan="2">
+      🌟 No tempo livre, gosto de fazer scripts para <a href="https://mkb.ddoerr.com/docs/actions">Macro/Keybind Mod</a> e passar raiva falando sobre o Inter ⚽  
+    </td>
+  </tr>
+</table>
 
 ![snake gif](https://github.com/ThiagoSzz/ThiagoSzz/blob/output/github-contribution-grid-snake.svg)
 
