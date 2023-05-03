@@ -4,15 +4,21 @@
 
 ## Sobre  
 Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto semestre de Ciência da Computação na UFRGS. 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
-🔭 Atualmente trabalhando nos projetos [LocAlarm](https://github.com/ThiagoSzz/LocAlarm) 📱 e [Visualização de Batidas de Penalidades em VR](https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football) 🎲  
+😎 Projetos mais interessantes em que trabalhei são:
+<ul> 
+  <li> [Aplicativo de Despertador por Localidade](https://github.com/ThiagoSzz/LocAlarm) 📱 </li>
+  <li> [Visualização de Batidas de Penalidades em VR](https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football) 🎲 </li>
+  <li> [Jogo em C com OpenGL](https://github.com/ThiagoSzz/Timberman-Game) 🪓 </li>
+  <li> [Jogo em Circuito Digital](https://github.com/ThiagoSzz/Fast-Typing-Game-DigitalCircuit) 👨‍💻 </li>
+  <li> [Sistema de Gerenciamento de Sono](https://github.com/LeiteRafael/sisop2-trabalho-final) 😴 </li>
+</ul> 
 
-
-</td><td valign="top" width="50%">
+</td></tr>
+<tr><td valign="top" width="100%">
 
 🌟 No tempo livre, gosto de fazer scripts para [Macro/Keybind Mod](https://mkb.ddoerr.com/docs/actions) e passar raiva falando sobre o Inter ⚽  
-
 
 </td></tr></table>  
 
