@@ -2,10 +2,10 @@
 ### <div align="center">![](https://github.com/ThiagoSzz/ThiagoSzz/blob/main/killua-hunter-x-hunter.gif)</div>
 
 
-## Sobre  
-Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto semestre de Ciência da Computação na UFRGS. 
+## <div align="center"> Sobre </div>
+<div align="center">Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto semestre de Ciência da Computação na UFRGS. <br><br> </div>
 
-<table>
+<div align="center"><table>
   <tr>
     <td valign="top" width="50%">
       Projetos mais interessantes em que trabalhei: <br><br>
@@ -25,9 +25,13 @@ Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto 
       🌟 No tempo livre, gosto de fazer scripts para <a href="https://mkb.ddoerr.com/docs/actions">Macro/Keybind Mod</a> e passar raiva falando sobre o Inter ⚽  
     </td>
   </tr>
-</table>
+</table></div>
 
+<div align="center">
+  
 ![snake gif](https://github.com/ThiagoSzz/ThiagoSzz/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <div align="center">
 <a href="https://instagram.com/thiagohss_" target="_blank">
@@ -40,7 +44,7 @@ Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto 
  
 
 
-## Linguagens e Ferramentas  
+## <div align="center">Linguagens e Ferramentas </div> 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
