@@ -10,8 +10,7 @@
     <td valign="top" width="50%">
       Projetos mais interessantes em que trabalhei: <br><br>
       ⏰ <a href="https://github.com/ThiagoSzz/LocAlarm">Aplicativo de Despertador por Localidade</a> <br>
-      🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">Visualização de Batidas de Penalidades em VR</a> <br>
-      <a href="">Plataforma de Avaliação de Restaurantes Universitários (🛠️)</a>
+      🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">Visualização de Batidas de Penalidades em VR</a> 
       <br>
    </td>
     <td valign="top" width="50%">
@@ -23,7 +22,7 @@
   </tr>
   <tr>
     <td valign="top" width="100%" colspan="2">
-      (🛠️: em desenvolvimento) Plataforma de Avaliação de Restaurantes Universitários
+      (🛠️: em desenvolvimento) Plataforma de Avaliação de Restaurantes Universitários &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     </td>
   </tr>
 </table></div>
