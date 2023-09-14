@@ -8,21 +8,17 @@
 <div align="center"><table>
   <tr>
     <td valign="top" width="50%">
-      Projetos mais interessantes em que trabalhei: <br><br>
+      Projetos mais interessantes que desenvolvi: <br><br>
       ⏰ <a href="https://github.com/ThiagoSzz/LocAlarm">Aplicativo de Despertador por Localidade</a> <br>
-      🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">Visualização de Batidas de Penalidades em VR</a> 
+      🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">Visualização de Batidas de Penalidades em VR</a> <br>
+      🍽️ <a href="https://github.com/ThiagoSzz/unifood-platform">Plataforma de Avaliação de RUs</a>
       <br>
    </td>
     <td valign="top" width="50%">
       Outros projetos interessantes: <br><br>
       🪓 <a href="https://github.com/ThiagoSzz/Timberman-Game">Jogo em C com OpenGL</a> <br>
       👨‍💻 <a href="https://github.com/ThiagoSzz/Fast-Typing-Game-DigitalCircuit">Jogo em Circuito Digital</a> <br>
-      😴 <a href="https://github.com/LeiteRafael/sisop2-trabalho-final">Sistema de Gerenciamento de Sono</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="100%" colspan="2">
-      (🛠️: em desenvolvimento) Plataforma de Avaliação de Restaurantes Universitários &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      😴 <a href="https://github.com/LeiteRafael/sisop2-trabalho-final">Sistema de Gerenciamento de Sono (WoL)</a>
     </td>
   </tr>
 </table></div>
