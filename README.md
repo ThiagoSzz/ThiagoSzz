@@ -9,16 +9,16 @@
   <tr>
     <td valign="top" width="50%">
       Projetos mais interessantes que desenvolvi: <br><br>
-      ⏰ <a target="_blank" href="https://github.com/ThiagoSzz/LocAlarm">Aplicativo de Despertador por Localidade</a> <br>
-      🎲 <a target="_blank" href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">Visualização de Batidas de Penalidades em VR</a> <br>
-      🍽️ <a target="_blank" href="https://github.com/ThiagoSzz/unifood-platform">Plataforma de Avaliação de RUs</a>
+      ⏰ <a href="https://github.com/ThiagoSzz/LocAlarm">Aplicativo de Despertador por Localidade</a> <br>
+      🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">Visualização de Batidas de Penalidades em VR</a> <br>
+      🍽️ <a href="https://github.com/ThiagoSzz/unifood-platform">Plataforma de Avaliação de RUs</a>
       <br>
    </td>
     <td valign="top" width="50%">
       Outros projetos interessantes: <br><br>
-      🪓 <a target="_blank" href="https://github.com/ThiagoSzz/Timberman-Game">Jogo em C com OpenGL</a> <br>
-      👨‍💻 <a target="_blank" href="https://github.com/ThiagoSzz/Fast-Typing-Game-DigitalCircuit">Jogo em Circuito Digital</a> <br>
-      😴 <a target="_blank" href="https://github.com/LeiteRafael/sisop2-trabalho-final">Sistema de Gerenciamento de Sono (WoL)</a>
+      🪓 <a href="https://github.com/ThiagoSzz/Timberman-Game">Jogo em C com OpenGL</a> <br>
+      👨‍💻 <a href="https://github.com/ThiagoSzz/Fast-Typing-Game-DigitalCircuit">Jogo em Circuito Digital</a> <br>
+      😴 <a href="https://github.com/LeiteRafael/sisop2-trabalho-final">Sistema de Gerenciamento de Sono (Wake on Lan)</a>
     </td>
   </tr>
 </table></div>
