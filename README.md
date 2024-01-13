@@ -1,24 +1,22 @@
 # <div align="center">\<Dev name="Thiago" \/>👋👋👋</div>   
 ### <div align="center">![](https://github.com/ThiagoSzz/ThiagoSzz/blob/main/killua-hunter-x-hunter.gif)</div>
 
-
-## <div align="center"> Sobre </div>
-<div align="center">Me chamo Thiago, tenho 23 anos e moro em Canoas-RS. Atualmente cursando o sexto semestre de Ciência da Computação na UFRGS. <br><br> </div>
+## <div align="center"> About </div>
+<div align="center">My name is Thiago, I'm 23 years old, and I'm a Full-Stack developer located in Brazil. <br> Currently, I'm in the sixth semester of Computer Science at UFRGS. <br><br> </div>
 
 <div align="center"><table>
   <tr>
     <td valign="top" width="50%">
-      Projetos mais interessantes que desenvolvi: <br><br>
-      ⏰ <a href="https://github.com/ThiagoSzz/LocAlarm">Aplicativo de Despertador por Localidade</a> <br>
-      🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">Visualização de Batidas de Penalidades em VR</a> <br>
-      🍽️ <a href="https://github.com/ThiagoSzz/unifood-platform">Plataforma de Avaliação de RUs</a>
-      <br>
+      Most interesting projects I've developed: <br><br>
+      🍽️ <a href="https://github.com/ThiagoSzz/unifood-platform">University Restaurant Reviewing Platform</a> <br>
+      ⏰ <a href="https://github.com/ThiagoSzz/LocAlarm">Location-Based Alarm App</a> <br>
+      🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">VR Penalty Kick Visualization</a>
    </td>
     <td valign="top" width="50%">
-      Outros projetos interessantes: <br><br>
-      🪓 <a href="https://github.com/ThiagoSzz/Timberman-Game">Jogo em C com OpenGL</a> <br>
-      👨‍💻 <a href="https://github.com/ThiagoSzz/Fast-Typing-Game-DigitalCircuit">Jogo em Circuito Digital</a> <br>
-      😴 <a href="https://github.com/LeiteRafael/sisop2-trabalho-final">Sistema de Gerenciamento de Sono (Wake on Lan)</a>
+      Other interesting projects: <br><br>
+      🪓 <a href="https://github.com/ThiagoSzz/Timberman-Game">C Game with OpenGL</a> <br>
+      👨‍💻 <a href="https://github.com/ThiagoSzz/Fast-Typing-Game-DigitalCircuit">Digital Circuit Game</a> <br>
+      😴 <a href="https://github.com/LeiteRafael/sisop2-trabalho-final">Sleep Management System (Wake on Lan)</a>
     </td>
   </tr>
 </table></div>
@@ -30,7 +28,7 @@
 </div>
 
 <div align="center">
-<a href="https://instagram.com/thiagohss_" target="_blank">
+<a href="https://instagram.com/haab.thiago" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/thsantoss" target="_blank">
@@ -38,20 +36,20 @@
 </a>  
 </div> 
  
-
-
-## <div align="center">Linguagens e Ferramentas </div> 
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>   
-</div>  
 <br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ThiagoSzz&&style=flat-square" align="center" />
+</div>
+
+## <div align="center">Tech Stack </div> 
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">&nbsp;
+  <img src="https://img.shields.io/badge/SAP_UI5_Web_Components-0F1689?style=for-the-badge&logo=sap&logoColor=white" alt="SAP UI5 Web Components">
+  <br>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java")>&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
