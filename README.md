@@ -7,16 +7,10 @@
 <div align="center"><table>
   <tr>
     <td valign="top" width="50%">
-      Most interesting projects I've developed: <br><br>
+      Some interesting projects I've worked on: <br><br>
       🍽️ <a href="https://github.com/ThiagoSzz/Uni-Food">University Restaurant Reviewing Platform</a> <br>
+      🪓 <a href="https://github.com/ThiagoSzz/Timberman-Game">Timberman Game with OpenGL</a> <br>
       ⏰ <a href="https://github.com/ThiagoSzz/LocAlarm">Location-Based Alarm App</a> <br>
-      🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">VR Penalty Kick Visualization</a>
-   </td>
-    <td valign="top" width="50%">
-      Other interesting projects: <br><br>
-      🪓 <a href="https://github.com/ThiagoSzz/Timberman-Game">C Game with OpenGL</a> <br>
-      👨‍💻 <a href="https://github.com/ThiagoSzz/Fast-Typing-Game-DigitalCircuit">Digital Circuit Game</a> <br>
-      😴 <a href="https://github.com/LeiteRafael/sisop2-trabalho-final">Sleep Management System (Wake on Lan)</a>
     </td>
   </tr>
 </table></div>
