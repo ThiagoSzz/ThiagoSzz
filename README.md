@@ -8,7 +8,7 @@
   <tr>
     <td valign="top" width="50%">
       Most interesting projects I've developed: <br><br>
-      🍽️ <a href="https://github.com/ThiagoSzz/unifood-platform">University Restaurant Reviewing Platform</a> <br>
+      🍽️ <a href="https://github.com/ThiagoSzz/Uni-Food">University Restaurant Reviewing Platform</a> <br>
       ⏰ <a href="https://github.com/ThiagoSzz/LocAlarm">Location-Based Alarm App</a> <br>
       🎲 <a href="https://github.com/ThiagoSzz/Penalty-Kick-Performance-in-Football">VR Penalty Kick Visualization</a>
    </td>
