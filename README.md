@@ -2,7 +2,7 @@
 ### <div align="center">![](https://github.com/ThiagoSzz/ThiagoSzz/blob/main/killua-hunter-x-hunter.gif)</div>
 
 ## <div align="center"> About </div>
-<div align="center">My name is Thiago, I'm 24 years old, and I'm a Full-Stack developer located in Brazil. <br> Currently, I'm in the sixth semester of Computer Science at UFRGS. <br><br> </div>
+<div align="center">My name is Thiago Haab and I'm a Full-Stack developer located in Brazil. <br> Currently, I'm studying Computer Science at UFRGS. <br><br> </div>
 
 <div align="center"><table>
   <tr>
@@ -14,12 +14,6 @@
     </td>
   </tr>
 </table></div>
-
-<div align="center">
-  
-![snake gif](https://github.com/ThiagoSzz/ThiagoSzz/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
 
 <div align="center">
 <a href="https://instagram.com/haab.thiago" target="_blank">
