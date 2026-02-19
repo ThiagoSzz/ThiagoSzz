@@ -9,8 +9,8 @@
     <td valign="top" width="50%">
       Some interesting projects I've worked on: <br><br>
       🍽️ <a href="https://github.com/ThiagoSzz/Uni-Food">University Restaurant Reviewing Platform</a> <br>
+      📈 <a href="https://github.com/ThiagoSzz/wintracker">Win/Loss Match History Tracking Web App</a> <br>
       🪓 <a href="https://github.com/ThiagoSzz/Timberman-Game">Timberman Game with OpenGL</a> <br>
-      ⏰ <a href="https://github.com/ThiagoSzz/LocAlarm">Location-Based Alarm App</a> <br>
       📝 <a href="https://github.com/ThiagoSzz/my-compiler">Compiler for C-like language</a> <br>
     </td>
   </tr>
